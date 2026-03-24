@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`90b1d08`](https://github.com/stdlib-js/stdlib/commit/90b1d08d97ae2d4db68836796d38f486d62d6610) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`204c9d9`](https://github.com/stdlib-js/stdlib/commit/204c9d9ac9befd22cce40a0f9b6db373dd6d62df) - **feat:** add `ndarray/base/full` [(#11017)](https://github.com/stdlib-js/stdlib/pull/11017) _(by Loay Ahmed, Athan Reines, stdlib-bot)_
 
 </details>
@@ -34,10 +35,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Loay Ahmed
+-   Philipp Burckhardt
 
 </section>
 
